@@ -1,1 +1,1 @@
-creating main.py file
+'hello test from terminal'
