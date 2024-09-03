@@ -5,4 +5,4 @@
 - Data Types
 - Mathematical Operations in Python
 - Number Manipulation and F Strings in Python
-## Project name
+## Tip Calculator
